@@ -2,7 +2,6 @@
 using namespace std;
 {
   cout<<"Hello world";
-  
-  cout<"This is updated one (branch 1)";
+  cout<"New update is done(branch)">;
   return 0;
 }
